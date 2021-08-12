@@ -34,3 +34,11 @@ body
 		background: #3C096C;
 	}
 }
+
+ul
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	text-align: right;
+}
